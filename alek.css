@@ -39,15 +39,12 @@ body {
   color: white;
   background-color: black;
   overflow: hidden;
-  body {
-    background-image: url(grid.svg);
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-image: url(grid.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;                
+  height: 100vh;                
     width: 100%;
-}
-
 }
 
 
