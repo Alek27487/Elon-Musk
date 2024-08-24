@@ -1,8 +1,9 @@
 body {
-    background-image: url("file:///C:/Users/Alex/Downloads/low-poly-grid-haikei%20(3).svg");
+    background-image: url(grid.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;                
     width: 100%;
 }
+
